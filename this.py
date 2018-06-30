@@ -19,7 +19,7 @@ Nygubhtu arire vf bsgra orggre guna *evtug* abj.
 Vs gur vzcyrzragngvba vf uneq gb rkcynva, vg'f n onq vqrn.
 Vs gur vzcyrzragngvba vf rnfl gb rkcynva, vg znl or n tbbq vqrn.
 Anzrfcnprf ner bar ubaxvat terng vqrn -- yrg'f qb zber bs gubfr!"""
-#可以看到this.py 中的s是加密的、大佬值的会玩
+#可以看到this.py 中的s是加密的、大佬真的会玩
 
 #把明文写密文的对应关系保存在d中
 d = {}
